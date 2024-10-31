@@ -76,7 +76,7 @@ const BirthdayCard3D = () => {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 1.6, delay: 1 }}
             >
-              sani sevaman tori sanga hozir qimmat narsa obermasdurman san bilan aylanib ko'rishib yuromasdurman, lekin kelejeda vada beraman sani xursand va baxtli qila oladigan barcha narsani oberaman va kelejedagi sani qayg'udan koz yosh tokishin uchun saab topa olmasligin uchun harakat qivomman. 💕 
+              sani sevaman tori sanga hozir qimmat narsa obermayamman san bilan aylanib ko'rishib yurmayamman, lekin kelejeda vada beraman sani xursand i baxtli qila oladigan hamma narsani oberaman va kelejedagi sani qayg'udan koz yosh tokishin uchun sabab topa olmasliginam uchun harakat qivomman. 💕 
             </motion.p>
 
             {/* Button with Unique Hover Effects and Rotation */}
@@ -89,7 +89,7 @@ const BirthdayCard3D = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 1.6, delay: 1.2 }}
               >
-                Sani sevaman! 💜
+                Qimmatli odamim uchun arzon sovga! 💜
               </motion.button>
             </div>
           </motion.div>
